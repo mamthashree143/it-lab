@@ -1,0 +1,22 @@
+<html>
+<head>
+<link href="session5.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<p class=solid>header</p>
+<div class=padd>
+<li>contact</li>
+<li>home</li>
+<li>about us</li>
+
+
+</div>
+<div class=padd>
+<li class=black>contact<li>
+<li class=black>home<li>
+<li class=black>about us</li>
+</div>
+
+
+</body>
+</html>
